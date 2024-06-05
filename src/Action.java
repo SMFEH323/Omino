@@ -2,7 +2,7 @@
 /**
  * The possible user actions in Omino.
  * 
- * @author Stina Bridgeman
+ * @author Sayf Elhawary
  */
 public enum Action {
 
